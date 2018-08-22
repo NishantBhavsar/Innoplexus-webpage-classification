@@ -2,7 +2,7 @@
 Solution for this competition hosted on Analytics Vidhya.
 [competition link](https://datahack.analyticsvidhya.com/contest/innoplexus-online-hiring-hackathon-ai-challenge/#problem_statement)
 #### Simple Linear SVM model for webpage classification. Weighted F1 score of ~0.75.
-#### ony TFIDF vectors of webpage content are used in the model.
+#### Only TFIDF vectors of webpage content are used for the model training. 
 #### Requierements:
 - nltk
 - beautifulsoup4
